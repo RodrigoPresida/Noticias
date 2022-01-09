@@ -15,8 +15,7 @@ body {
 }
 #topo {
     height: 150px;
-    /*border: 1px solid red;*/
-    background-image: url(imagens/detalhe-topo.png);background-repeat:no-repeat; background-position: right;
+   background-image: url(imagens/detalhe-topo.png);background-repeat:no-repeat; background-position: right;
     padding-top: 25px;
 }
 .logo {
@@ -124,9 +123,7 @@ h3 {
     background-color: #b10333;
     color: #fff;
 }
-.entrevista {
-    background-color: #be003e;
-}
+
 .caixa-conteudo {
 	background: #fff;
 	padding: 5px;
